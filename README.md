@@ -7,7 +7,6 @@ Tecnologías usadas en este proyecto :
 </p>
 <table>
   <tr>
-    <th>Numero</th>
     <th>Nombre Tecnologia</th>
   </tr>
   <tr>
