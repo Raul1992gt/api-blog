@@ -6,17 +6,17 @@
 Tecnologías usadas en este proyecto : 
 </p>
 <table>
-  <td>
+  <tr>
     <th>Numero</th>
     <th>Nombre Tecnologia</th>
-  </td>
-  <td>
-    <th>1 . Java 8+</th>
-    <th>2 . Spring Boot</th>
-    <th>3 . Spring MVC</th>
-    <th>4 . Spring Data JPA ( Hibernate)</th>
-    <th>5 . Spring Security</th>
-    <th>6 . JWT</th>
-    <th>7 . Tomcat</th>  
-  </td>
+  </tr>
+  <tr>
+    <td>1 . Java 8+</td>
+    <td>2 . Spring Boot</td>
+    <td>3 . Spring MVC</td>
+    <td>4 . Spring Data JPA ( Hibernate)</td>
+    <td>5 . Spring Security</td>
+    <td>6 . JWT</td>
+    <td>7 . Tomcat</td>  
+  </tr>
 </table>
