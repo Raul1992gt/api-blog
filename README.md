@@ -8,6 +8,8 @@ Tecnologías usadas en este proyecto :
 <table>
   <tr>
     <th>Nombre Tecnologia</th>
+  </tr>
+  <tr>
     <td>1 . Java 8+</td>
     <td>2 . Spring Boot</td>
     <td>3 . Spring MVC</td>
