@@ -6,10 +6,10 @@
 Tecnologías usadas en este proyecto : 
 </p>
 <table>
-  <tr>
+  <td>
     <th>Numero</th>
     <th>Nombre Tecnologia</th>
-  </tr>
+  </td>
   <tr>
     <td>1 . Java 8+</td>
     <td>2 . Spring Boot</td>
